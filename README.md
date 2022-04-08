@@ -50,6 +50,7 @@ Curso Práctico de JavaScript|Juan David Castro **Platzi**
 
 
 🌱 I’m currently learning English in Open English and MongoDB and PHP in **Platzi**
+🌱 I am part of the **Oracle** one project as a developer in training **ONE(Oracle Next Education**)
 
 ## __How to reach me:__
 
