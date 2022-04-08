@@ -1,4 +1,4 @@
-[![Mesa-de-trabajo-2-80.jpg](https://i.postimg.cc/rwL9GPxw/Mesa-de-trabajo-2-80.jpg)](https://postimg.cc/dL4dwn5b)
+[![GitHub.png](https://i.postimg.cc/x831w8x7/GitHub.png)](https://postimg.cc/V05wMfcB)
 ## Welcome to my GitHub, my name is Evelyn Quevedo 👋!
 
 
