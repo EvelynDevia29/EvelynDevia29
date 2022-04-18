@@ -29,7 +29,7 @@ __Technologies and tools__
 ![CSS](https://img.shields.io/badge/CSS-green)
 ![NodeJS](https://img.shields.io/badge/NodeJS-yellow)
 ![Git](https://img.shields.io/badge/Git-green)
-![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-yellowgreen)
+![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-bluegreen)
 
 
 ## __Learning path__
