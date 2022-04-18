@@ -23,11 +23,11 @@ Now my purpose is to become a web developer and that is why I decided to start w
 
 __Technologies and tools__
 
-![JAVA](https://img.shields.io/badge/-JAVA-green)
+![JAVA](https://img.shields.io/badge/-JAVA-red)
 ![Python](https://img.shields.io/badge/-Python-green)
-![HTML](https://img.shields.io/badge/HTML5-green)
+![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS-green)
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
+![NodeJS](https://img.shields.io/badge/NodeJS-yellow)
 ![Git](https://img.shields.io/badge/Git-green)
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-yellowgreen)
 
@@ -46,6 +46,8 @@ Curso profesional de Git y GitHub|Freddy Vega **Platzi**
 Curso de Fundamentos de Bases de Datos|Israel Vázquez Morales **Platzi**
 Curso Básico de JavaScript|Diego Degranda **Platzi**
 Curso Práctico de JavaScript|Juan David Castro **Platzi**
+Curso de ECMAScript 6+|Oscar Barajas Tavares /Foundation Layer **Platzi**
+Curso de Introducción al Diseño|Carlos Jiménez/Motion expert and Designer **Platzi**
 Curso de Ilustrator|Carlos Jiménez/Motion expert and Designer **Platzi**
 Curso de Figma|Santiago Camargo/Sr. UX Designer en HUGE **Platzi**
 
@@ -55,7 +57,7 @@ __Soft Skills__
 ----------|------------------------
 Curso para encontrar y evaluar ideas para emprender|Juliane Butty/Head of B2B & Startups **Platzi**
 Audiocurso de Igualdad de Género|Sandra Escobar **Platzi**
-
+Curso de Diversidad, Inclusión y No Discriminación|Ophelia Pastrana **Platzi**
 
 
 
