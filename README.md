@@ -32,9 +32,6 @@ __Technologies and tools__
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-yellowgreen)
 
 
-
-
-
 ## __Learning path__
 
 
@@ -51,9 +48,15 @@ Curso Básico de JavaScript|Diego Degranda **Platzi**
 Curso Práctico de JavaScript|Juan David Castro **Platzi**
 Curso de Ilustrator|Carlos Jiménez/Motion expert and Designer **Platzi**
 Curso de Figma|Santiago Camargo/Sr. UX Designer en HUGE **Platzi**
-Curso para encontrar y evaluar ideas para emprender|Juliane Butty/Head of B2B & Startups **Platzi**
+
 
 __Soft Skills__
+**CURSO** | **TEACHER AND ACADEMY**
+----------|------------------------
+Curso para encontrar y evaluar ideas para emprender|Juliane Butty/Head of B2B & Startups **Platzi**
+Audiocurso de Igualdad de Género|Sandra Escobar **Platzi**
+
+
 
 
 
