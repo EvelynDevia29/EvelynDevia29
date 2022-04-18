@@ -69,3 +69,4 @@ Curso de Diversidad, Inclusión y No Discriminación|Ophelia Pastrana **Platzi**
 ## __How to reach me:__
 
 [🔗LinKedin](https://www.linkedin.com/in/evelyn-quevedo-devia-a9472989/)  
+[🔗IG](https://www.instagram.com/evelyn_quevedo/) 
