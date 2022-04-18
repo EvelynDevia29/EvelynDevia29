@@ -33,6 +33,8 @@ __Technologies and tools__
 
 
 
+
+
 ## __Learning path__
 
 
@@ -47,6 +49,12 @@ Curso profesional de Git y GitHub|Freddy Vega **Platzi**
 Curso de Fundamentos de Bases de Datos|Israel Vázquez Morales **Platzi**
 Curso Básico de JavaScript|Diego Degranda **Platzi**
 Curso Práctico de JavaScript|Juan David Castro **Platzi**
+Curso de Ilustrator|Carlos Jiménez/Motion expert and Designer **Platzi**
+Curso de Figma|Santiago Camargo/Sr. UX Designer en HUGE **Platzi**
+Curso para encontrar y evaluar ideas para emprender|Juliane Butty/Head of B2B & Startups **Platzi**
+
+__Soft Skills__
+
 
 
 🌱 I’m currently learning English in Open English and MongoDB and PHP in **Platzi**
