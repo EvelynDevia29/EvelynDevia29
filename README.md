@@ -59,7 +59,7 @@ Curso para encontrar y evaluar ideas para emprender|Juliane Butty/Head of B2B & 
 Audiocurso de Igualdad de Género|Sandra Escobar **Platzi**
 Curso de Diversidad, Inclusión y No Discriminación|Ophelia Pastrana **Platzi**
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvelyDevia29)](https://git.io/streak-stats)
 
 
 🌱 I’m currently learning English in Open English and MongoDB and PHP in **Platzi**
