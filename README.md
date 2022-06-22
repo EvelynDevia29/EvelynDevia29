@@ -27,6 +27,7 @@ __Technologies and tools__
 ![Python](https://img.shields.io/badge/-Python-green)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-yellow)
 ![Git](https://img.shields.io/badge/Git-green)
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-blue)
