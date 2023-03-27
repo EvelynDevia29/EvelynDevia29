@@ -30,7 +30,7 @@ __Technologies and tools__
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-yellow)
 ![Git](https://img.shields.io/badge/Git-green)
-![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-blue)
+![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-red)
 ![Playwright](https://img.shields.io/badge/-Playwright-blue)
 
 
