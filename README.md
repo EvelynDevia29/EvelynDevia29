@@ -31,6 +31,7 @@ __Technologies and tools__
 ![NodeJS](https://img.shields.io/badge/NodeJS-yellow)
 ![Git](https://img.shields.io/badge/Git-green)
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-blue)
+![Playwright](https://img.shields.io/badge/-Playwright-green)
 
 
 ## __Learning path__
